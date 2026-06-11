@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "daxter",
+  "compatibility_date": "2026-06-11",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "File"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
